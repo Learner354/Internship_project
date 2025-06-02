@@ -29,6 +29,6 @@ To run the notebook:
    cd House-Price-Prediction
    
 ## Future Work
--try different regression models (Ridge, Lasso, XGBoost)
--Add hyperparameter tuning
--Deploy the model using Flask or Streamlit 
+- Try different regression models (Ridge, Lasso, XGBoost)
+- Add hyperparameter tuning
+- Deploy the model using Flask or Streamlit 
