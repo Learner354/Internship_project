@@ -27,7 +27,8 @@ To run the notebook:
    ```bash
    git clone https://github.com/Learner354/House-Price-Prediction.git
    cd House-Price-Prediction
-##Future Work
+   
+## Future Work
 -try different regression models (Ridge, Lasso, XGBoost)
 -Add hyperparameter tuning
 -Deploy the model using Flask or Streamlit 
